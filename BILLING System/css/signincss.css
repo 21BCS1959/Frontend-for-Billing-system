@@ -1,0 +1,24 @@
+body{
+     background-image:  linear-gradient(rgba(0, 0, 0, 0.69),rgba(0, 0, 0, 0.69)) ,
+url(https://st4.depositphotos.com/34206794/39523/i/1600/depositphotos_395236364-stock-photo-natural-food-collage-food-background.jpg);
+background-repeat:inherit;
+background-size:auto;
+}
+
+.logo-
+{
+     width: 160px;
+     
+}
+.login-box
+{
+     background-color: rgba(0, 0, 0, 0.749);
+     height: 620px;
+     width: 400px;
+     border-radius: 5px;
+     padding: 30px;
+}
+.form-control
+{
+     box-shadow: red !important;;
+}
